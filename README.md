@@ -1,4 +1,4 @@
-Log Cleanse
+<b>Log Cleanse</b>
 
 A simple bash script to cleanse archived log files in /var/log. This script must be run as root or with sudo.
 
