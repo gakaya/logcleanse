@@ -8,3 +8,5 @@ It looks for files that have been auto-archived as EXAMPLE.log.1 or EXAMPLE.gz.
 The script will also cleanse logs of popular applications such as Apache, MySQL and apt.
 If your system uses any of these applications, and you'd like to cleanse archived logs for them, then uncomment
 the relevant lines in the script.
+
+Designed for use on Debian-based systems.
